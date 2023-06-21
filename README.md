@@ -12,6 +12,8 @@
   limitations under the License.
 -->
 
+![build](https://github.com/greghogan/guix-development-templates/actions/workflows/c++.yml/badge.svg?branch=main)
+
 This project demonstrates development and continuous integration using
 [Linux Containers](https://linuxcontainers.org) specified and built with
 [GNU Guix](https://guix.gnu.org).
